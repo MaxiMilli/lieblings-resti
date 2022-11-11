@@ -6,6 +6,7 @@ Das weiss ich vielleicht nach dem Mittagessen ;-)
 
 - test
 - MC' Donalds
+- McDonalds
 - HalliGalli
 - la esquina
 - Migros-Restaurant
